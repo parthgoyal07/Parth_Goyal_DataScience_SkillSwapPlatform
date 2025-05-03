@@ -52,4 +52,8 @@ An interactive web-based platform that empowers users to learn and teach skills 
 - Install flask for backend
 - Run the backend through flask
 - Run the frontend through npm ( Command - npm run dev )
+
+---
+
+## THE CODE FILES ARE IN ANOTHER BRANCH
   
