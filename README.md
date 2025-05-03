@@ -14,6 +14,8 @@ An interactive web-based platform that empowers users to learn and teach skills 
 
 ## 🎥 Video Explanation
 
+- https://drive.google.com/drive/folders/1UAgreK5U-T9ZI4eksRjHIoi8lZky5Cp8?usp=drive_link
+
 ---
 
 ## 💻 Technologies Used
